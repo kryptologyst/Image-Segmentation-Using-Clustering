@@ -78,4 +78,3 @@ python3 0051.py [image_path] [-k K]
   ```bash
   python3 0051.py /path/to/your/image.jpg -k 8
   ```
-# Image-Segmentation-Using-Clustering
